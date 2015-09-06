@@ -84,6 +84,11 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (3.3.3)
+
+GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.2.1)
@@ -124,5 +129,6 @@ DEPENDENCIES
   ruby (= 8.5.2)
   stdlib (= 4.7.0)
   sudo (= 1.0.0)
+  vagrant (>= 0)
   xquartz (= 1.2.1)
 
