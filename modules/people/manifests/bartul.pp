@@ -4,4 +4,5 @@ class people::bartul {
 #  include docker  # requires docker module in Puppetfile
   include iterm2::stable
 #  include zsh not working
+  include openssl 
 }
