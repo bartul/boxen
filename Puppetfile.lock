@@ -16,7 +16,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-docker
   specs:
-    docker (0.9.0)
+    docker (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-foreman
@@ -96,7 +96,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-vagrant
   specs:
-    vagrant (3.3.3)
+    vagrant (3.3.4)
 
 GITHUBTARBALL
   remote: boxen/puppet-xquartz
