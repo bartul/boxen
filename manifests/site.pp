@@ -45,6 +45,8 @@ Repository {
   }
 }
 
+package { 'skype': provider => 'brewcask' }
+
 Service {
   provider => ghlaunchd
 }
